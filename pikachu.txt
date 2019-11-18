@@ -1,3 +1,4 @@
 thunderbold
 kick
 run
+jump
